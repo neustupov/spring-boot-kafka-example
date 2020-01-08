@@ -1,4 +1,4 @@
-## spring-boot-kafka-example
+## spring-boot-kafka-producer-example
 
 1. #### Download Kafka 
 
