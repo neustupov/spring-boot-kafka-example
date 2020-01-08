@@ -6,9 +6,9 @@ https://www.apache.org/dyn/closer.cgi?path=/kafka/2.4.0/kafka_2.12-2.4.0.tgz
 
 2. ## Start Zookeeper server
 
-### $ bin/zookeeper-server-start.sh config/zookeeper.properties 
+#### $ bin/zookeeper-server-start.sh config/zookeeper.properties 
 or if you have Couldnot find or load main class QuorumPeerMain Exception
-### $ bin/windows/zookeeper-server-start.bat config/zookeeper.properties
+#### $ bin/windows/zookeeper-server-start.bat config/zookeeper.properties
 
 3. ## Start Kafka 
 
